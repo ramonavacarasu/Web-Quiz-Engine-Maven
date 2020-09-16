@@ -38,8 +38,6 @@ Quiz Adding
     
 Completing quiz   
  ![](src/main/resources/Screenshots/CompletingQuiz.png "Title")
- 
-    hhfh
   
   
   api/{id}:
