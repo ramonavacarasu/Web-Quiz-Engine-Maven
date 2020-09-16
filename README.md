@@ -15,7 +15,7 @@ API:
  Register
  
  
-![](src/main/resources/Screenshots/Register.png "Title")
+![](src/main/resources/Screenshots/Register.png)
 
 /quizzes:
  POST: Create a quiz.
@@ -25,7 +25,8 @@ API:
  Create a quiz
  
  
- ![](src/main/resources/Screenshots/Quiz Adding.png "Title")
+ ![](src/main/resources/Screenshots/Quiz Adding.png)
+ 
  
 /solve:
     POST: Solve quiz with recieved quiz's id.
