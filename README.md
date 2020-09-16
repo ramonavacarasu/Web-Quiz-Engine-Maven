@@ -14,7 +14,6 @@ API:
  
  Register
  
- 
 ![](src/main/resources/Screenshots/Register.png)
 
 /quizzes:
@@ -23,11 +22,8 @@ API:
     
     GET: Get all quizzes.
  
+Quiz Adding
 
- 
- 
-
- 
  ![](src/main/resources/Screenshots/QuizAdding.png)
 
 
@@ -35,12 +31,12 @@ API:
 
 
 /solve:
+
     POST: Solve quiz with recieved quiz's id.
     
    
-   Completing quiz
+ Completing quiz
    
-  
   ![](src/main/resources/Screenshots/CompletingQuiz.png "Title")
  
   
