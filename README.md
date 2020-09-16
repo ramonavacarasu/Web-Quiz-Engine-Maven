@@ -15,6 +15,7 @@ API:
  Register
  
  
+ ![](src/main/resources/Screenshots/Quiz Adding.png)
 ![](src/main/resources/Screenshots/Register.png)
 
 /quizzes:
@@ -28,7 +29,7 @@ API:
  
 
  
- ![Optional Text](src/main/resources/Screenshots/Quiz Adding.png)
+ ![](src/main/resources/Screenshots/Quiz Adding.png)
 
 
 
