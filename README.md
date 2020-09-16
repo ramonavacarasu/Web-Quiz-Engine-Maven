@@ -7,7 +7,9 @@ API:
 /api
 
 /quizzes:
+
     POST: Create a quiz.
+
     GET: Get all quizzes.
  
  Register
@@ -21,6 +23,8 @@ API:
  
  
  Create a quiz
+ 
+ 
  ![](src/main/resources/Screenshots/Quiz Adding.png "Title")
  
 /solve:
@@ -28,10 +32,124 @@ API:
     
    
    Completing quiz
+   
   
-   ![](src/main/resources/Screenshots/Completing Quiz.png "Title")
+  ![](src/main/resources/Screenshots/Completing Quiz.png "Title")
  
   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
