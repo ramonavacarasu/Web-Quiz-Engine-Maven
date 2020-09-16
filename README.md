@@ -25,7 +25,8 @@ API:
  Create a quiz
  
  
- ![](src/main/resources/Screenshots/Quiz Adding.png)
+ 
+ ![Quiz Adding](src/main/resources/Screenshots/Quiz Adding.png)
  
  
 /solve:
