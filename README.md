@@ -18,8 +18,12 @@ API:
 ![](src/main/resources/Screenshots/Register.png)
 
 /quizzes:
- POST: Create a quiz.
- GET: Get all quizzes.
+
+    POST: Create a quiz.
+    
+    GET: Get all quizzes.
+ 
+
  
  
  Create a quiz
