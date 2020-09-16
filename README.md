@@ -7,10 +7,18 @@ API:
 /api
 
 /quizzes:
- POST: Create a quiz.
- GET: Get all quizzes.
+    POST: Create a quiz.
+    GET: Get all quizzes.
  
-![Register](src/main/resources/Screenshots/Register.png)
+![Register](src/main/resources/Screenshots/Register.png "Title")
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
