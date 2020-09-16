@@ -10,8 +10,7 @@ API:
  POST: Create a quiz.
  GET: Get all quizzes.
  
- https://github.com/ramonavacarasu/Web-Quiz-Engine-Maven/blob/master/src/main/resources/Screenshots/Completing%20Quiz.png?raw=true
- 
+![Register](src/main/resources/Screenshots/Register.png)
  
  
  
