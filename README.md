@@ -31,6 +31,7 @@ API:
  
 ![Quiz Adding](src/main/resources/Screenshots/Quiz Adding.png)
  
+ ![Screenshot](src/main/resources/Screenshots/Quiz Adding.png)
  
 /solve:
     POST: Solve quiz with recieved quiz's id.
