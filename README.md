@@ -10,7 +10,28 @@ API:
     POST: Create a quiz.
     GET: Get all quizzes.
  
+ Register
+ 
+ 
 ![](src/main/resources/Screenshots/Register.png "Title")
+
+/quizzes:
+ POST: Create a quiz.
+ GET: Get all quizzes.
+ 
+ 
+ Create a quiz
+ ![](src/main/resources/Screenshots/Quiz Adding.png "Title")
+ 
+/solve:
+    POST: Solve quiz with recieved quiz's id.
+    
+   
+   Completing quiz
+  
+   ![](src/main/resources/Screenshots/Completing Quiz.png "Title")
+ 
+  
  
  
  
